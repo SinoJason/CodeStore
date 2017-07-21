@@ -3,4 +3,6 @@ Git is a free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 Creating a new branch is quick AND simple.
-That is time to merge.
+Merge with no-ff.
+Just kidding.
+Just kidding.
